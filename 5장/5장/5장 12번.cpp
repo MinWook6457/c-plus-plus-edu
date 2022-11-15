@@ -53,4 +53,6 @@ int main() {
 	com.read();
 	int n = countPass(com);
 	cout << "60점 이상은 " << n << "명";
+
+	
 }
